@@ -25,6 +25,6 @@ The program reads training data from the file <em>input.txt</em> and creates <em
 The program reads training data from the file <em>input.txt</em> and creates <em>bigram_model.json</em>.
 #### Training data
 Training data is stored in the <em>input.txt</em> file. No specific requirements, preferably well formed natural sentences. 
-
+****
 ### GUI sample
 ![gui](https://user-images.githubusercontent.com/20507222/143170097-40b8f299-9d7d-45fb-89d4-acd1cb3648a5.gif)
