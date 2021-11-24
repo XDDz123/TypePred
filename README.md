@@ -22,6 +22,6 @@ The program reads training data from the file <em>input.txt</em> and creates <em
 #### Training data
 Training data is stored in the <em>input.txt</em> file. No specific requirements, preferably well formed natural sentences. 
 
-### GUI Sample
+### GUI sample
 ![image](https://user-images.githubusercontent.com/20507222/143152600-662e68fd-4e91-41eb-abf3-715fe287fecc.png)
 
