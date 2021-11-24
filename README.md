@@ -9,12 +9,14 @@
 ### Instructions
 #### Start the GUI for the Trigram + Bigram model 
     python typepred.py
+<em>Warning: computationally and memory intensive</em></br>
 The program loads pre-built models from <em>trigram_model.json</em> and <em>bigram_model.json</em> and starts the GUI application automatically.
 #### Start the GUI for the Bigram model
     python typepredBI.py
 The program loads the pre-built model from <em>bigram_model.json</em> and starts the GUI application automatically.
 #### Train the Trigram + Bigram model
     python train.py
+<em>Warning: computationally and memory intensive</em></br>
 The program reads training data from the file <em>input.txt</em> and creates <em>trigram_model.json</em> and <em>bigram_model.json</em>.
 #### Train the Bigram model
     python trainBI.py
