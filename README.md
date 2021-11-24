@@ -1,12 +1,11 @@
-# TypePred
-## Trigram/Bigram Typing Prediction Program
-### Program requirements
+# Trigram/Bigram Typing Prediction Program
+## Program requirements
 - Python 3.5+
 - tkinter
 - numpy
 - json
 - re
-### Instructions
+## Instructions
 #### Start the GUI for the Trigram + Bigram model 
     python typepred.py
 ><em>Warning: computationally and memory intensive</em></br>
@@ -26,5 +25,5 @@ The program reads training data from the file <em>input.txt</em> and creates <em
 #### Training data
 Training data is stored in the <em>input.txt</em> file. No specific requirements, preferably well formed natural sentences. 
 
-### GUI sample
+## GUI sample
 ![gui](https://user-images.githubusercontent.com/20507222/143170097-40b8f299-9d7d-45fb-89d4-acd1cb3648a5.gif)
