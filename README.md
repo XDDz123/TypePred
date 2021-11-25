@@ -30,7 +30,7 @@ Training data is stored in the <em>input.txt</em> file. No specific requirements
 
 ## Sample training data
 #### To generate the relevant models:
-1. Unzip this [[zip file]](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
+1. Unzip this [zip file](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)
 2. Copy the contents of <em>final/en_US/en_US.news.txt</em>
 3. Paste the contents into <em>input.txt</em>
 4. Run <em>train.py</em> or <em>trainBI.py</em>
