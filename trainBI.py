@@ -74,7 +74,7 @@ def main():
     trimModel(bigram_result)
 
     print("Saving Bigram model...")
-    with open("bigram_model_1.json", "w") as outfile:
+    with open("bigram_model.json", "w") as outfile:
         json.dump(bigram_result, outfile)
     print("Bigram model saved!")
 

@@ -82,7 +82,7 @@ def loadModel(bigram):
     return bigram_result
 
 parent_widget = Tkinter.Tk()
-parent_widget.title("Typing Prediction GUI Test")
+parent_widget.title("Typing Prediction GUI")
 parent_widget.minsize(width = 500, height = 500)
 
 text_widget = Tkinter.Text(parent_widget, font = ("Consolas", 12))
